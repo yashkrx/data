@@ -1,1 +1,4 @@
-# data
+{
+    "pair": "Promo_Spend and Footfall",
+    "correlation": 0.12197361196731205
+}
